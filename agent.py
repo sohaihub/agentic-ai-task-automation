@@ -266,7 +266,7 @@ def main_area():
     col1, col2 = st.columns([2, 1])
     
     with col1:
-        st.title("🚀 Advanced Agentic AI Task Automation")
+        st.title("🚀Agentic AI Task Automation")
         st.write("Enter a complex task and let the AI agent team break it down, research, execute, and refine the solution.")
         
         task = st.text_area("Enter a Task to Automate:", height=100)
